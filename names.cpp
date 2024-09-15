@@ -240,7 +240,7 @@ QStringList CreateEnemyList(){
                 << "061 - Ifrit (BOSS)"
                 << "062 - Minotaur (Optional BOSS)"
                 << "063 - Sacred (Optional BOSS)"
-                << "064 - Base Leader (Red)
+                << "064 - Base Leader (Red)"
                 << "065 - Cerberus (BOSS)"
                 << "066 - Diablos (Optional BOSS)"
                 << "067 - Bahamut (Optional BOSS)"
@@ -319,62 +319,62 @@ QStringList CreateEnemyList(){
                 << "140 - UFO With Crop Circles? *Optional "
                 << "141 - UFO With Pyramid? *Optional "
                 << "142 - Gunblade (Seifer's Hyperion) (BOSS)"
-                << "143 - Base Soldier (BLUE)";
-                << "144 - DUMMY";
-                << "145 - DUMMY";
-                << "146 - DUMMY";
-                << "147 - DUMMY";
-                << "148 - DUMMY";
-                << "149 - DUMMY";
-                << "150 - DUMMY";
-                << "151 - DUMMY";
-                << "152 - DUMMY";
-                << "153 - DUMMY";
-                << "154 - DUMMY";
-                << "155 - DUMMY";
-                << "156 - DUMMY";
-                << "157 - DUMMY";
-                << "158 - DUMMY";
-                << "159 - DUMMY";
-                << "160 - DUMMY";
-                << "161 - DUMMY";
-                << "162 - DUMMY";
-                << "163 - DUMMY";
-                << "164 - DUMMY";
-                << "165 - DUMMY";
-                << "166 - DUMMY";
-                << "167 - DUMMY";
-                << "168 - DUMMY";
-                << "169 - DUMMY";
-                << "170 - DUMMY";
-                << "171 - DUMMY";
-                << "172 - DUMMY";
-                << "173 - DUMMY";
-                << "174 - DUMMY";
-                << "175 - DUMMY";
-                << "176 - DUMMY";
-                << "177 - DUMMY";
-                << "178 - DUMMY";
-                << "179 - DUMMY";
-                << "180 - DUMMY";
-                << "181 - DUMMY";
-                << "182 - DUMMY";
-                << "183 - DUMMY";
-                << "184 - DUMMY";
-                << "185 - DUMMY";
-                << "186 - DUMMY";
-                << "187 - DUMMY";
-                << "188 - DUMMY";
-                << "189 - DUMMY";
-                << "190 - DUMMY";
-                << "191 - DUMMY";
-                << "192 - DUMMY";
-                << "193 - DUMMY";
-                << "194 - DUMMY";
-                << "195 - DUMMY";
-                << "196 - DUMMY";
-                << "197 - DUMMY";
-                << "198 - DUMMY";
-                << "199 - DUMMY";
+                << "143 - Base Soldier (BLUE)"
+                << "144 - DUMMY"
+                << "145 - DUMMY"
+                << "146 - DUMMY"
+                << "147 - DUMMY"
+                << "148 - DUMMY"
+                << "149 - DUMMY"
+                << "150 - DUMMY"
+                << "151 - DUMMY"
+                << "152 - DUMMY"
+                << "153 - DUMMY"
+                << "154 - DUMMY"
+                << "155 - DUMMY"
+                << "156 - DUMMY"
+                << "157 - DUMMY"
+                << "158 - DUMMY"
+                << "159 - DUMMY"
+                << "160 - DUMMY"
+                << "161 - DUMMY"
+                << "162 - DUMMY"
+                << "163 - DUMMY"
+                << "164 - DUMMY"
+                << "165 - DUMMY"
+                << "166 - DUMMY"
+                << "167 - DUMMY"
+                << "168 - DUMMY"
+                << "169 - DUMMY"
+                << "170 - DUMMY"
+                << "171 - DUMMY"
+                << "172 - DUMMY"
+                << "173 - DUMMY"
+                << "174 - DUMMY"
+                << "175 - DUMMY"
+                << "176 - DUMMY"
+                << "177 - DUMMY"
+                << "178 - DUMMY"
+                << "179 - DUMMY"
+                << "180 - DUMMY"
+                << "181 - DUMMY"
+                << "182 - DUMMY"
+                << "183 - DUMMY"
+                << "184 - DUMMY"
+                << "185 - DUMMY"
+                << "186 - DUMMY"
+                << "187 - DUMMY"
+                << "188 - DUMMY"
+                << "189 - DUMMY"
+                << "190 - DUMMY"
+                << "191 - DUMMY"
+                << "192 - DUMMY"
+                << "193 - DUMMY"
+                << "194 - DUMMY"
+                << "195 - DUMMY"
+                << "196 - DUMMY"
+                << "197 - DUMMY"
+                << "198 - DUMMY"
+               << "199 - DUMMY";
         return enemynames;
 }

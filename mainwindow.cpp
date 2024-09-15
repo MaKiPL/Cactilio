@@ -84,8 +84,10 @@ void MainWindow::on_actionSave_triggered()
  ****************/
 void MainWindow::about()
 {
-    qreal scaleX = qApp->desktop()->logicalDpiX()/96;
-    qreal scaleY = qApp->desktop()->logicalDpiY()/96;
+    QScreen * screen = QGuiApplication::primaryScreen();
+
+    qreal scaleX = screen->logicalDotsPerInchX() / 96;
+    qreal scaleY = screen->logicalDotsPerInchY() / 96;
     QDialog about(this, Qt::Dialog | Qt::CustomizeWindowHint);
     about.setMinimumSize(380*scaleX,220*scaleY);
 
